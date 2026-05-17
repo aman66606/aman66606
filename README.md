@@ -1,61 +1,51 @@
-# Hi 👋, I'm Aman Pathak
+# Hi 👋, I'm Aman
 
-🚀 **AI Developer | Innovator | Startup Builder**
-Building intelligent systems focused on **Assistive Technology, Smart Healthcare, and Real-World Impact**
+🚀 **AI Developer | Innovator | Tech Enthusiast**  
+Passionate about building intelligent systems and exploring emerging technologies.
 
 ---
 
 ## 🧠 About Me
 
-* 🔭 Currently developing an **AI-powered assistive system** for visually and physically impaired individuals
-* 🚑 Building a **Smart Emergency Response System** for real-time alerts and safety
-* 🧬 Working on **Pink Scan** – an AI-driven breast cancer prediction platform
-* 🌱 Exploring **Artificial Intelligence, IoT, Computer Vision, and Scalable Web Systems**
-* 🎯 Passionate about solving **real-world problems using technology**
+* 💡 Interested in Artificial Intelligence, IoT, and Computer Vision
+* 🌱 Currently learning and experimenting with scalable AI solutions
+* 🛠 Love building practical tech that solves real-world problems
+* 📚 Exploring modern web technologies and embedded systems
+* ⚡ Enjoy participating in hackathons, innovation challenges, and tech communities
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages:**
+### Languages
 Python | JavaScript | C++
 
-**Web Development:**
+### Web Development
 HTML | CSS | React.js
 
-**AI/ML & Computer Vision:**
+### AI/ML & Computer Vision
 OpenCV | TensorFlow | Scikit-learn
 
-**Hardware & IoT:**
+### Hardware & IoT
 Arduino | Raspberry Pi | ESP32
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 What I Enjoy Working On
 
-* 🧑‍🦯 **Assistive Device for the Visually Impaired**
-  Object detection, navigation assistance, and real-time scene understanding
-
-* 🚨 **AI Emergency Voice Assistant**
-  Voice-triggered system for instant alerts and location sharing during emergencies
-
-* 📷 **AI-Powered CCTV System**
-  Real-time face recognition with automated intruder alerts
-
-* 🌾 **Smart Farmer Demand Dashboard**
-  AI-based demand prediction system for optimizing agricultural decisions
+* 🤖 AI & Machine Learning Applications
+* 🌐 Smart Web-Based Systems
+* 📷 Computer Vision Solutions
+* 🔌 IoT and Embedded Projects
+* 🚀 Innovative Tech Ideas & Prototyping
 
 ---
 
-## 📫 Connect with Me
+## 📫 Connect
 
-* 🔗 LinkedIn: www.linkedin.com/in/
-aman-pathak-a87543321
-
-
-
+* GitHub: @aman66606
 
 ---
 
-⭐ *Open to collaboration on AI, IoT, and impactful tech projects*
+⭐ *Always open to learning, collaboration, and innovative opportunities*
 
